@@ -1,7 +1,9 @@
 /bin/
 /build/
+**target/
 /.gradle/
 /.settings/
 gradle.properties
 .project
 .classpath
+.idea
